@@ -1,2 +1,2 @@
 # This is a github repository for the batch K settime students.
-## Classes started 11th february 2024
+## Classes resumed 11th February 2024, happy
